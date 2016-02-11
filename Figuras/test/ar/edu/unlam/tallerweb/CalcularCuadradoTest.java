@@ -4,7 +4,7 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-public class calcularCuadradoTest {
+public class CalcularCuadradoTest {
 
 	@Test
 	public void calcularAreaLado4Test() {
