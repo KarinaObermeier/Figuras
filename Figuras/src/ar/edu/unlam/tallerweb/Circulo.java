@@ -22,7 +22,7 @@ public class Circulo {
 	}
 
 	 
-	public Double calcularPermitro(){
+	public Double calcularPerimetro(){
 		
 		return (Double) (Math.PI*(2*radio));
 	}
